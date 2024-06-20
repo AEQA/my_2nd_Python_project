@@ -5,3 +5,5 @@ def something_wrong_here(a, b):
         print('Тест провален')
 
 something_wrong_here('C', 'C')
+
+# тест будет дополняться
